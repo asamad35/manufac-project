@@ -1,3 +1,10 @@
+![Project Image](./public/assets/project.png)
+
+# This project is developed using typescript
+
+Clean code, modularity, folder structure, quality of comments (to explain code wherever
+needed)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
